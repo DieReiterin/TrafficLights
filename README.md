@@ -3,6 +3,10 @@
 ## Демо
 https://traffic-lights-snowy.vercel.app/
 
+![traffic-lights__preview](https://github.com/DieReiterin/TrafficLights/assets/106297490/7c084a1e-a9ff-4a14-ac08-3a22f9554d1d)
+
+
+
 ## Локальный запуск
 #### `npm i `
 #### `npm start`
